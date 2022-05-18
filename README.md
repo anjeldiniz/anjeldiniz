@@ -22,7 +22,8 @@
 <!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <img align="right" alt="anjel" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9806f3fac1bc2b7b5d9903db16bdc4eb.gif">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="40"/>
+ 
+ <img align="right" alt="anjel" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="40"/>
  
 </div>
   
