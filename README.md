@@ -1,8 +1,8 @@
-<h1>Hello, I'm Anjel Diniz</h1>
+<h1>Hi, I'm Anjel Diniz</h1>
 <p>About me</p>
 <li>:technologist: I'm full stack web development student at TRYBE.</li>
-<li>:brazil: I'm from Niterói, RJ - Brazil.</li>
-<li>:atom: I'm currently working on learning React.</li>
+<li>:brazil: I'm from Rio de Janeiro - Brazil.</li>
+<li>📜 I'm currently working on learning Docker, SQL e Node.</li>
 
  ##
 
@@ -24,12 +24,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  
-  <img align="right" alt="anjel" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9806f3fac1bc2b7b5d9903db16bdc4eb.gif">
-
 </div>
   
   ##
+ <img align="right" alt="anjel" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9806f3fac1bc2b7b5d9903db16bdc4eb.gif">
  
 <div> 
   <a href="https://instagram.com/anjeldinizz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
