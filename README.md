@@ -3,16 +3,8 @@
 <li>:technologist: I'm full stack web development student at TRYBE.</li>
 <li>:brazil: I'm from Rio de Janeiro - Brazil.</li>
 <li>📜 I'm currently working on learning Docker, SQL e Node.</li>
-
- ##
-
-<div align="center">
-  <a href="https://github.com/anjeldiniz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anjeldiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeldiniz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  
- ##
+ <h2>Technologies</h2>
  
  <div style="display: inline_block"><br>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -27,6 +19,13 @@
 </div>
   
   ##
+  
+  <div align="center">
+  <a href="https://github.com/anjeldiniz">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anjeldiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeldiniz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
  <img align="right" alt="anjel" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9806f3fac1bc2b7b5d9903db16bdc4eb.gif">
  
 <div> 
