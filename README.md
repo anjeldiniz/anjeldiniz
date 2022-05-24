@@ -3,6 +3,12 @@
 <li>:technologist: I'm full stack web development student at TRYBE.</li>
 <li>:brazil: I'm from Rio de Janeiro - Brazil.</li>
 <li>📜 I'm currently working on learning Docker, SQL e Node.</li>
+  
+<div align="center">
+<a href="https://github.com/anjeldiniz">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=anjeldiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeldiniz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
  <h2>Technologies:</h2>
  <div style="display: inline_block"><br>
@@ -15,12 +21,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-</div>
-  
-<div align="center">
-<a href="https://github.com/anjeldiniz">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=anjeldiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeldiniz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <img align="right" alt="anjel" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9806f3fac1bc2b7b5d9903db16bdc4eb.gif">
