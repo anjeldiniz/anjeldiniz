@@ -1,8 +1,8 @@
-<h1>Hi, I'm Anjel Diniz</h1>
-<p>About me:</p>
-<li>:slightly_smiling_face: I'm full stack web development student at TRYBE.</li>
-<li>:brazil: I'm from Rio de Janeiro - Brazil.</li>
-<li>📜 I'm currently working on learning Docker, SQL e Node.</li>
+### Hello, I'm Anjel Diniz
+
+- 🙂 I'm full stack web development student at TRYBE.
+- :brazil: I'm from Rio de Janeiro - Brazil.</li>
+- 📜 I'm currently working on learning Docker, SQL e Node.
   
 <div align="center">
   <a href="https://github.com/anjeldiniz">
@@ -11,7 +11,7 @@
 </div>
  
 
- <div style="display: inline_block">
+<div style="display: inline_block">
 <h3>Technologies:</h3>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
