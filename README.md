@@ -10,20 +10,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeldiniz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="Jest logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" alt="Mocha logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/chai.svg" alt="Chai logo" width="50px" height="50px" />
 </div>
  
   ##
