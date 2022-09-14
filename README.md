@@ -1,6 +1,6 @@
 ### Hello, I'm Anjel Diniz
 
-- 🙂 I'm full stack web development student at TRYBE.
+- :smille: I'm full stack web development student at TRYBE.
 - :brazil: I'm from Rio de Janeiro - Brazil.</li>
 - 📜 I'm currently working on learning Docker, SQL e Node.
   
